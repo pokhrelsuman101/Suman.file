@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the new line in master.
+=======
+This is the new line in branch.
+>>>>>>> new_branch
